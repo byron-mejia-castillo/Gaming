@@ -1,0 +1,7 @@
+{
+    "Games":
+    [
+    { "gameName":"Honkai Star Rail", "gameID":1, "Os":"Windows", "Processor": "Intel Core i3", "gameMemory":"6GB RAM", "GPU":"Nvidia GeForce GTX 650 or better", "gameStorage":"20GB", "gameWebsite":"https://hsr.hoyoverse.com/en-us/", "gameTwitter":"https://twitter.com/honkaistarrail", "gameImg":"", "gameDescription":"Honkai: Star Rail is a role-playing gacha video game developed by miHoYo, published by miHoYo in mainland China and worldwide by Cognosphere, d/b/a HoYoverse. It was released on April 26, 2023, for Windows and mobile devices; with the PlayStation 5 port released on October 11, 2023." }
+    ],
+    "Status":"OK"
+}
